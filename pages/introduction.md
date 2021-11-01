@@ -1,7 +1,7 @@
 ---
-title: Presses
+title: Introduction
 layout: about
-permalink: /presses.html
+permalink: /introduction.html
 ---
 
 {% include feature/jumbotron.html objectid="158" %}
