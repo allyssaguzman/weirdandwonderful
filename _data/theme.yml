@@ -63,6 +63,12 @@ metadata-export-fields: "title,creator,date,description,subject,location,latitud
 metadata-facets-fields: "subject,creator,format"
 
 ##########
+# ABOUT 
+#
+# adding the featured image to the about page
+about-featured-image: /objects/2020_0009_0001.jpg
+
+##########
 # ADVANCED OPTIONS
 #
 
