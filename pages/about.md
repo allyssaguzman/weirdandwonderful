@@ -10,9 +10,15 @@ credits: true
 
 {% include feature/jumbotron.html objectid="158" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About This Site;About CollectionBuilder-GH" %}
 
-## About the Collection
+## About This Site
+
+This site was created by Allyssa Guzman to showcase various open-source options for creating digital collections. To see the same content in different platforms, visit the UT Libraries Digital Collection guide. 
+
+Gina Bastone researched, curated, and developed the content for this exhibit. It was originally developed on Omeka.net and its current home is in a Spotlight exhibit on the [UT Libraries Exhibits](https://exhibits.lib.utexas.edu) site. Any typos, errors, broken links, or bizarre formatting were introduced by Allyssa when she created this CollectionBuilder-GH copy of the original exhibit. 
+
+## About CollectionBuilder-GH
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
@@ -23,5 +29,4 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
