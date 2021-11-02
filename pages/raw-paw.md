@@ -10,8 +10,8 @@ Dock had vision to move beyond visual art, and in 2014, he reached out to establ
 
 The latter is an epic break up poem that Jewell started in the 1980s, but he wasn’t able to fully finish it until he had editing help from UT alum and Raw Paw member Clementine Kruczynski in 2014.[3] The elaborate cover art that reflects the chapbook’s blue theme was designed by artist Nicole Carleton, reflecting Raw Paw’s commitment to collective art-making. Raw Paw continues to operate as a print shop for local artists in South Austin with the mission to “print culture together!”[4]
 
-{% include feature/image.html objectid="160" %}
-{% include feature/image.html objectid="161" %}
+{% include feature/image.html objectid="160" width="50"%}
+{% include feature/image.html objectid="161" width="50"%}
 
 # Notes
 [1] Brenner, Wayne Alan. “Strong and Talented and Young: Austin’s Raw Paw Collective Inhales Life and Exhales Art.” The Austin Chronicle. December 26, 2014. https://www.austinchronicle.com/arts/2014-12-26/strong-and-talented-and-young/. Find it at the UT Libraries.\
