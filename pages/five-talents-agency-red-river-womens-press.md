@@ -6,7 +6,7 @@ permalink: /five-talents-agency-red-river-womens-press.html
 
 # Five Talents Agency/ Red River Women’s Press
 
-{% include feature/image.html objectid="157" %}
+{% include feature/image.html objectid="157" width="50" %}
 
 In 1978, poet and creative writing teacher Cynthia Linzy of Temple, Texas, published this tiny book of poems called Ink. The oldest book featured in this exhibit, Ink was edited by Five Talents Agency, a now-defunct Austin publisher and arts non-profit described as “feminist clearinghouse,” which released this chapbook in a series featuring women’s writing.[1] Ink is an excellent example of this era's feminist creative output—Linzy's collection covers the complexities of motherhood and being mothered, and the challenges of creating in a culture dominated by men.
 

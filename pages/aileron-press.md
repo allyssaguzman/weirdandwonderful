@@ -4,9 +4,9 @@ layout: about
 permalink: /aileron-press.html
 ---
 # Aileron Press
-{% include feature/image.html objectid="163" %}
+{% include feature/image.html objectid="163" width="50"%}
 
-{% include feature/image.html objectid="166" %}
+{% include feature/image.html objectid="166" width="50"%}
 
 Albert Huffstickler, or “Huff” as he was often known,[1] was as iconic to Austin’s creative history as the movie Slacker, Stevie Ray Vaughan, and the Austin City Limits stage. That might seem an exaggeration, especially since many Austinites might not recognize his name. But Huff was a staple of the Austin poetry scene throughout the 70s, 80s, and 90s, and became known as the “Bard of Hyde Park” because he was often lounging and smoking (and sometimes writing) at Hyde Park businesses such as Quack’s Bakery and the now-shuttered café Dolce Vida.[2][3] He also worked at the Perry-Castañeda Library (PCL), a job that inspired more than a few satirical poems.[4] See his chapbook The Talkin’ PCL Blues, which is described in our library catalog as “poems and sketches relating to the work and personalities of the Perry-Casteñeda Library.”[5]
 
