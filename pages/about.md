@@ -14,7 +14,7 @@ credits: true
 
 ## About This Site
 
-This site was created by Allyssa Guzman to showcase various open-source options for creating digital collections. To see the same content in different platforms, visit the UT Libraries Digital Collection guide. 
+This site was created by Allyssa Guzman to showcase various open-source options for creating digital collections. To see the same content in different platforms, visit the (UT Libraries Digital Collection)[https://guides.lib.utexas.edu/creating-digital-collections] guide. 
 
 Gina Bastone researched, curated, and developed the content for this exhibit. It was originally developed on Omeka.net and its current home is in a Spotlight exhibit on the [UT Libraries Exhibits](https://exhibits.lib.utexas.edu) site. Any typos, errors, broken links, or bizarre formatting were introduced by Allyssa when she created this CollectionBuilder-GH copy of the original exhibit. 
 
