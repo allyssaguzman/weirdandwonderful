@@ -15,7 +15,7 @@ In the 80s and 90s, Huff often used the photocopier at the Hyde Park grocery sto
 Another notable poet published by Aileron Press was Michael Gilmore. He is a curious example of an Austin poet who bridges two distinct eras. Along with Huffstickler, David Jewell, and John Herndon, he started publishing poetry chapbooks in Austin in the 1980s and was active with Aileron Press. He left Austin for nearly 30 years and returned in 2013. He now works at the Harry Ransom Center at UT and continues to write poetry.[8] Gilmore’s Lyrika was his first chapbook, published by Aileron in 1981. This is not the first UT Libraries exhibit to feature Lyrika—it was highlighted, along with Huffstickler’s Night Diner, at a 1986 exhibition at the PCL.[9]
 
 # Notes
-[1] Holloway-Reeves, Brett. “The Life and Times of an Emotional Transient.” The Austin Chronicle. March 28, 1997. https://www.austinchronicle.com/books/1997-03-28/527667/. Find it at the UT Libraries.\
+[1] Holloway-Reeves, Brett. “The Life and Times of an Emotional Transient.” The Austin Chronicle. March 28, 1997. [https://www.austinchronicle.com/books/1997-03-28/527667/](https://www.austinchronicle.com/books/1997-03-28/527667/). Find it at the UT Libraries.\
 [2] Ibid.\
 [3] Cota, Mitch William. Lone Star ImPRESSions: A History of Small Press in Texas. (Austin: University of Texas at Austin, 2017), 15. https://repositories.lib.utexas.edu/handle/2152/63268./
 [4] Ibid., 15.\
